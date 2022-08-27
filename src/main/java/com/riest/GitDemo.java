@@ -13,6 +13,7 @@ public class GitDemo {
         System.out.println("hello dgj-master01");
         System.out.println("hello dgj-master02");
         System.out.println("hello dgj-masterPOIU");
+        System.out.println("hello dgj-masterPOIUdsasdassad");
 
     }
 }
